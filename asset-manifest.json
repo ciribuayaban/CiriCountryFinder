@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ciribuayaban/CiriCountryFinder/static/css/main.630de40e.css",
-    "main.js": "/ciribuayaban/CiriCountryFinder/static/js/main.0d764a74.js",
-    "static/js/453.66bd6eaf.chunk.js": "/ciribuayaban/CiriCountryFinder/static/js/453.66bd6eaf.chunk.js",
-    "index.html": "/ciribuayaban/CiriCountryFinder/index.html",
-    "main.630de40e.css.map": "/ciribuayaban/CiriCountryFinder/static/css/main.630de40e.css.map",
-    "main.0d764a74.js.map": "/ciribuayaban/CiriCountryFinder/static/js/main.0d764a74.js.map",
-    "453.66bd6eaf.chunk.js.map": "/ciribuayaban/CiriCountryFinder/static/js/453.66bd6eaf.chunk.js.map"
+    "main.css": "/CiriCountryFinder/static/css/main.630de40e.css",
+    "main.js": "/CiriCountryFinder/static/js/main.a2664384.js",
+    "static/js/453.66bd6eaf.chunk.js": "/CiriCountryFinder/static/js/453.66bd6eaf.chunk.js",
+    "index.html": "/CiriCountryFinder/index.html",
+    "main.630de40e.css.map": "/CiriCountryFinder/static/css/main.630de40e.css.map",
+    "main.a2664384.js.map": "/CiriCountryFinder/static/js/main.a2664384.js.map",
+    "453.66bd6eaf.chunk.js.map": "/CiriCountryFinder/static/js/453.66bd6eaf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.630de40e.css",
-    "static/js/main.0d764a74.js"
+    "static/js/main.a2664384.js"
   ]
 }
