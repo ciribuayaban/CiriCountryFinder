@@ -1,3 +1,14 @@
+# CiriCountryFinder
+
+## https://ciribuayaban.github.io/CiriCountryFinder/
+
+This is a React-based web application created as part of a code challenge. The project focuses on implementing a type-ahead search feature to find countries from a predefined list.
+
+# CiriWebsite
+
+## https://github.com/cherrymae-eb/ciriwebsite
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
